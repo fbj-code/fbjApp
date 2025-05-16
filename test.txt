@@ -5,3 +5,5 @@ And this is the second line.
 new changes
 
 This is the new, correct content after resolving the conflict.
+
+line1
