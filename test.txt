@@ -7,3 +7,6 @@ new changes
 This is the new, correct content after resolving the conflict.
 
 line1
+
+line2
+
