@@ -4,4 +4,4 @@ And this is the second line.
 
 new changes
 
-changed by local
+This is the new, correct content after resolving the conflict.
